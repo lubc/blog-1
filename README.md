@@ -1,3 +1,4 @@
+test1
 # Fast Ruby Blog
 
 Blog for the Fast Ruby using Jekyll as the blog-engine.
