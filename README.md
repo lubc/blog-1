@@ -1,4 +1,4 @@
-test1
+test2
 # Fast Ruby Blog
 
 Blog for the Fast Ruby using Jekyll as the blog-engine.
